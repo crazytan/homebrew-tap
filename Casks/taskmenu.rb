@@ -1,6 +1,6 @@
 cask "taskmenu" do
-  version "1.2.0"
-  sha256 "6851c5bd776c159223b29c43908e901b68c87680a66ab7b086c52f8d33ebb666"
+  version "1.3.0"
+  sha256 "dedc46c030ae2dac1f25ec7799367df42caf899b6c11d62aa1ea099c96bb9029"
 
   url "https://github.com/crazytan/TaskMenu/releases/download/v#{version}/TaskMenu-#{version}.dmg",
       verified: "github.com/crazytan/TaskMenu/"
